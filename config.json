@@ -9,5 +9,5 @@
   "routes": [
     { "origin": "JFK", "destination": "CDG" }
   ],
-  "min_savings_percent": 40
+  "min_savings_percent": 1
 }
