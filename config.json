@@ -1,0 +1,13 @@
+{
+  "destinations": [
+    "Europe",
+    "Paris",
+    "Tokyo",
+    "New York"
+  ],
+  "only_error_fares": false,
+  "routes": [
+    { "origin": "JFK", "destination": "CDG" }
+  ],
+  "min_savings_percent": 40
+}
