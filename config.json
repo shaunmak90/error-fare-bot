@@ -6,7 +6,7 @@
   ],
   "only_error_fares": false,
   "routes": [
-    { "origin": "YEG", "destination": "YYG" }
+    { "origin": "YEG", "destination": "YYG" },
     { "origin": "YEG", "destination": "ORD" }
   ],
   "min_savings_percent": 1
