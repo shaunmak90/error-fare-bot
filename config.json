@@ -1,0 +1,294 @@
+{
+  "destinations": [
+    "Central America",
+    "South America",
+    "North America",
+    "vancouver",
+    "Carribean",
+    "Europe",
+    "Canada",
+    "United Kingdom",
+    "AFRICA",
+    "MIDDLE EAST"
+  ],
+  "only_error_fares": false,
+  "routes": [
+    {
+      "origin": "YEG",
+      "destination": "NAS"
+    },
+    {
+      "origin": "YEG",
+      "destination": "KIN"
+    },
+    {
+      "origin": "YEG",
+      "destination": "HAV"
+    },
+    {
+      "origin": "YEG",
+      "destination": "POS"
+    },
+    {
+      "origin": "YEG",
+      "destination": "SDQ"
+    },
+    {
+      "origin": "YEG",
+      "destination": "SJO"
+    },
+    {
+      "origin": "YEG",
+      "destination": "PTY"
+    },
+    {
+      "origin": "YEG",
+      "destination": "YVR"
+    },
+    {
+      "origin": "YEG",
+      "destination": "YYJ"
+    },
+    {
+      "origin": "YEG",
+      "destination": "YLW"
+    },
+    {
+      "origin": "YEG",
+      "destination": "YXX"
+    },
+    {
+      "origin": "YEG",
+      "destination": "SAL"
+    },
+    {
+      "origin": "YEG",
+      "destination": "GUA"
+    },
+    {
+      "origin": "YEG",
+      "destination": "BZE"
+    },
+    {
+      "origin": "YEG",
+      "destination": "XPL"
+    },
+    {
+      "origin": "YEG",
+      "destination": "MGA"
+    },
+    {
+      "origin": "YEG",
+      "destination": "BOG"
+    },
+    {
+      "origin": "YEG",
+      "destination": "UIO"
+    },
+    {
+      "origin": "YEG",
+      "destination": "LIM"
+    },
+    {
+      "origin": "YEG",
+      "destination": "SCL"
+    },
+    {
+      "origin": "YEG",
+      "destination": "EZE"
+    },
+    {
+      "origin": "YEG",
+      "destination": "CTG"
+    },
+    {
+      "origin": "YEG",
+      "destination": "AUA"
+    },
+    {
+      "origin": "YEG",
+      "destination": "GEO"
+    },
+    {
+      "origin": "YEG",
+      "destination": "GRU"
+    },
+    {
+      "origin": "YEG",
+      "destination": "LIR"
+    },
+    {
+      "origin": "YEG",
+      "destination": "RTB"
+    },
+    {
+      "origin": "YEG",
+      "destination": "PUJ"
+    },
+    {
+      "origin": "YEG",
+      "destination": "MBJ"
+    },
+    {
+      "origin": "YEG",
+      "destination": "PLS"
+    },
+    {
+      "origin": "YEG",
+      "destination": "UVF"
+    },
+    {
+      "origin": "YEG",
+      "destination": "ANU"
+    },
+    {
+      "origin": "YEG",
+      "destination": "CUR"
+    },
+    {
+      "origin": "YEG",
+      "destination": "YXS"
+    },
+    {
+      "origin": "YEG",
+      "destination": "YHZ"
+    },
+    {
+      "origin": "YEG",
+      "destination": "YYG"
+    },
+    {
+      "origin": "YEG",
+      "destination": "YFC"
+    },
+    {
+      "origin": "YEG",
+      "destination": "YYT"
+    },
+    {
+      "origin": "YEG",
+      "destination": "YUL"
+    },
+    {
+      "origin": "YEG",
+      "destination": "YQB"
+    },
+    {
+      "origin": "YEG",
+      "destination": "YOW"
+    },
+    {
+      "origin": "YEG",
+      "destination": "YYZ"
+    },
+    {
+      "origin": "YEG",
+      "destination": "AMS"
+    },
+    {
+      "origin": "YEG",
+      "destination": "KEF"
+    },
+    {
+      "origin": "YEG",
+      "destination": "CDG"
+    },
+    {
+      "origin": "YEG",
+      "destination": "FCO"
+    },
+    {
+      "origin": "YEG",
+      "destination": "LIS"
+    },
+    {
+      "origin": "YEG",
+      "destination": "MAD"
+    },
+    {
+      "origin": "YEG",
+      "destination": "BCN"
+    },
+    {
+      "origin": "YEG",
+      "destination": "DUB"
+    },
+    {
+      "origin": "YEG",
+      "destination": "EDI"
+    },
+    {
+      "origin": "YEG",
+      "destination": "VCE"
+    },
+    {
+      "origin": "YEG",
+      "destination": "OPO"
+    },
+    {
+      "origin": "YEG",
+      "destination": "LHR"
+    },
+    {
+      "origin": "YEG",
+      "destination": "LGW"
+    },
+    {
+      "origin": "YEG",
+      "destination": "MUG"
+    },
+    {
+      "origin": "YEG",
+      "destination": "MUC"
+    },
+    {
+      "origin": "YEG",
+      "destination": "FRA"
+    },
+    {
+      "origin": "YEG",
+      "destination": "ZRH"
+    },
+    {
+      "origin": "YEG",
+      "destination": "VIE"
+    },
+    {
+      "origin": "YEG",
+      "destination": "PRG"
+    },
+    {
+      "origin": "YEG",
+      "destination": "BRU"
+    },
+    {
+      "origin": "YEG",
+      "destination": "ATH"
+    },
+    {
+      "origin": "YEG",
+      "destination": "CPH"
+    },
+    {
+      "origin": "YEG",
+      "destination": "YYC"
+    },
+    {
+      "origin": "YEG",
+      "destination": "JHB"
+    },
+    {
+      "origin": "YEG",
+      "destination": "HRE"
+    },
+    {
+      "origin": "YEG",
+      "destination": "DXB"
+    },
+    {
+      "origin": "YEG",
+      "destination": "DOH"
+    }
+  ],
+  "min_savings_percent": 10
+}
