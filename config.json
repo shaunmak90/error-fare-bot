@@ -1,0 +1,36 @@
+{
+  "destinations": [
+    "Carribean",
+    "Canada",
+    "South America",
+    "Central America"
+  ],
+  "only_error_fares": false,
+  "routes": [
+    {
+      "origin": "YEG",
+      "destination": "ANU"
+    },
+    {
+      "origin": "YEG",
+      "destination": "NAS"
+    },
+    {
+      "origin": "YEG",
+      "destination": "BGI"
+    },
+    {
+      "origin": "YEG",
+      "destination": "HAV"
+    },
+    {
+      "origin": "YEG",
+      "destination": "SDQ"
+    },
+    {
+      "origin": "YEG",
+      "destination": "GND"
+    }
+  ],
+  "min_savings_percent": 20
+}
