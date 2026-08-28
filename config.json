@@ -4,6 +4,8 @@
     "Paris",
     "Tokyo",
     "New York"
+    "Charlottetown"
+    "Chicago"
   ],
   "only_error_fares": false,
   "routes": [
