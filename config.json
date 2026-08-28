@@ -1,15 +1,11 @@
 {
   "destinations": [
-    "Europe",
-    "Paris",
-    "Tokyo",
-    "New York"
-    "Charlottetown"
+ 
+    "Charlottetown",
     "Chicago"
   ],
   "only_error_fares": false,
   "routes": [
-    { "origin": "JFK", "destination": "CDG" }
     { "origin": "YEG", "destination": "YYG" }
     { "origin": "YEG", "destination": "ORD" }
   ],
