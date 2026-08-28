@@ -8,29 +8,29 @@
   "only_error_fares": false,
   "routes": [
     {
-      "origin": "YEG",
+      "origin": "YYZ",
       "destination": "ANU"
     },
     {
-      "origin": "YEG",
+      "origin": "YYZ",
       "destination": "NAS"
     },
     {
-      "origin": "YEG",
+      "origin": "YYZ",
       "destination": "BGI"
     },
     {
-      "origin": "YEG",
+      "origin": "YYZ",
       "destination": "HAV"
     },
     {
-      "origin": "YEG",
+      "origin": "YYZ",
       "destination": "SDQ"
     },
     {
-      "origin": "YEG",
+      "origin": "YYZ",
       "destination": "GND"
     }
   ],
-  "min_savings_percent": 20
+  "min_savings_percent": 2
 }
