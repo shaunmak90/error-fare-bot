@@ -8,6 +8,8 @@
   "only_error_fares": false,
   "routes": [
     { "origin": "JFK", "destination": "CDG" }
+    { "origin": "YEG", "destination": "YYG" }
+    { "origin": "YEG", "destination": "ORD" }
   ],
   "min_savings_percent": 1
 }
